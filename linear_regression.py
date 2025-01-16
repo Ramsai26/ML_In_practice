@@ -6,4 +6,4 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
-data_set = pd.read_csv('AirQualityUCI.csv')
+data_sets = pd.read_csv('AirQualityUCI.csv')
